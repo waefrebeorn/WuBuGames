@@ -1,0 +1,4 @@
+*.rbxl
+*.rbxl.lock
+*.rbxm
+build/
